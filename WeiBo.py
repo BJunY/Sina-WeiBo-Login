@@ -1,3 +1,7 @@
+#using this programme to login Sina WeiBo using Python 
+#Writer:bjyhappy
+#email:513431626@qq.com 
+
 #coding=utf8
 import rsa
 import base64
